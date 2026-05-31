@@ -1,0 +1,6 @@
+ {
+  "name": "شركة عزيز أيت عمر الرقمية",
+  "description": "نظام شركة عزيز التقنية للإدارة المتكاملة للنوادي الرياضية والاشتراكات والمداخيل والمدربين ثنائي اللغة",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
